@@ -1,6 +1,6 @@
-# QuickConnect - Real-Time Chat and Video Calling Application
+# Connectly - Real-Time Chat and Video Calling Application
 
-QuickConnect is a full-stack real-time chat and video calling application designed to connect users worldwide. With features like instant messaging, video calls, and language learning partnerships, Streamify is the perfect platform for seamless communication.
+Connectly is a full-stack real-time chat and video calling application designed to connect users worldwide. With features like instant messaging, video calls, and language learning partnerships, Streamify is the perfect platform for seamless communication.
 
 ---
 ## 🚀 Features
@@ -49,8 +49,8 @@ QuickConnect is a full-stack real-time chat and video calling application design
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/W-aris/QuickConnect-by-waris-.git
-cd streamify
+git clone [https://github.com/W-aris/Connectly-by-waris-.git](https://github.com/vrahul15/connectly.git)
+
 
 cd backend
 npm install
@@ -65,4 +65,4 @@ For any major changes, please open an issue first.
 📄 License
 This project is licensed under the MIT License.
 
-💖 Made with Love by Mohammad Waris 
+💖 Made with Love by V Rahul
