@@ -49,7 +49,7 @@ Connectly is a full-stack real-time chat and video calling application designed 
 
 ### 1. Clone the Repository:
 ```bash
-git clone [https://github.com/W-aris/Connectly-by-waris-.git](https://github.com/vrahul15/connectly.git)
+git clone https://github.com/vrahul15/connectly.git
 
 
 cd backend
