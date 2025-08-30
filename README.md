@@ -62,7 +62,6 @@ npm install
 Pull requests are welcome! If you’d like to improve or extend this app, feel free to fork and contribute.
 For any major changes, please open an issue first.
 
-📄 License
-This project is licensed under the MIT License.
+
 
 💖 Made with Love by V Rahul
